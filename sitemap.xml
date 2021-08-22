@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://feedmebook19.github.io/blog/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://feedmebook19.github.io/categories/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feedmebook19.github.io/categories/go-language/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+    <loc>https://feedmebook19.github.io/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E7%99%BC/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feedmebook19.github.io/blog/test2/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feedmebook19.github.io/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://feedmebook19.github.io/tags/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
@@ -23,10 +29,10 @@
     <loc>https://feedmebook19.github.io/blog/m13/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feedmebook19.github.io/tags/%E9%9D%9E%E8%99%9B%E6%A7%8B/</loc>
+    <loc>https://feedmebook19.github.io/categories/%E8%B7%AF%E9%82%8A%E7%9A%84%E6%9B%B8/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://feedmebook19.github.io/</loc>
+    <loc>https://feedmebook19.github.io/tags/%E9%9D%9E%E8%99%9B%E6%A7%8B/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://feedmebook19.github.io/search/</loc>
@@ -35,27 +41,7 @@
     <loc>https://feedmebook19.github.io/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://feedmebook19.github.io/tags/game/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://feedmebook19.github.io/blog/post-13/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://feedmebook19.github.io/tags/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://feedmebook19.github.io/tags/new/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://feedmebook19.github.io/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://feedmebook19.github.io/tags/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
     <loc>https://feedmebook19.github.io/blog/firstday/</loc>
-  </url><url>
-    <loc>https://feedmebook19.github.io/blog/test2/</loc>
   </url><url>
     <loc>https://feedmebook19.github.io/contact/</loc>
   </url>

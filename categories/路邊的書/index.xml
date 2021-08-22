@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on 餵鹿吃書</title>
-    <link>https://feedmebook19.github.io/blog/</link>
-    <description>Recent content in Blogs on 餵鹿吃書</description>
+    <title>路邊的書 on 餵鹿吃書</title>
+    <link>https://feedmebook19.github.io/categories/%E8%B7%AF%E9%82%8A%E7%9A%84%E6%9B%B8/</link>
+    <description>Recent content in 路邊的書 on 餵鹿吃書</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://feedmebook19.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>每天一點新練習</title>
-      <link>https://feedmebook19.github.io/blog/test2/</link>
-      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://feedmebook19.github.io/blog/test2/</guid>
-      <description>下午測試了，總算是把自己的套版網站丟上網路了。 花了幾個星期六下午的時間，總算走到這一步 雖然還很簡陋，但應該會慢慢長出肉來吧？！或許</description>
-    </item>
-    
+    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://feedmebook19.github.io/categories/%E8%B7%AF%E9%82%8A%E7%9A%84%E6%9B%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>無處可逃的悲劇《瑪莉詠的遺書》</title>
       <link>https://feedmebook19.github.io/blog/m13/</link>
@@ -32,15 +23,6 @@
 「我的小孩很乖啊！他說在學校都很好啊」
 但越是乖巧的小孩，越懂得隱藏自己的心情與痛苦，不讓家人操心，獨自忍耐承受著那些難過的傷害。
 作者是一位想要知道女兒為什麼自殺的媽媽。在追查真相的過程，除了看見女兒在學校內被霸凌令人心痛的真相外，自己也受到了整個社區鄉鎮，集體的冷默、排斥與不理解。</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://feedmebook19.github.io/blog/firstday/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://feedmebook19.github.io/blog/firstday/</guid>
-      <description>寫在樹下長椅上市前的週末 </description>
     </item>
     
   </channel>
